@@ -3,7 +3,7 @@ home: true
 icon: iconfont icon-home
 title: Home
 heroImage: /logo.svg
-heroText: AList
+heroText: ALIST
 tagline: 🗂️ 一个支持多种存储的文件列表程序，使用 Gin 和 Solidjs。
 actions:
   - text: 开始💡
